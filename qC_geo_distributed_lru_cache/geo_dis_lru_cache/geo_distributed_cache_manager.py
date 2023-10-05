@@ -51,7 +51,7 @@ class GeoDistributedCacheManager:
         distance = earth_radius * c
         return distance
 
-    # Fetch data from database if there is no data in cache
+    # Fetch data from data store if there is no data in cache
     def fetch_data_from_database(self, key, server):
         if key in self.data_storage[server]:
             return self.data_storage[server][key]
