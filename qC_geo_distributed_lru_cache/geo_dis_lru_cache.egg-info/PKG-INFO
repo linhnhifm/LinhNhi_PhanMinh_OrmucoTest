@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: geo-dis-lru-cache
+Version: 1
+Summary: Software library for a geo distributed LRU cache with time expiration
+Author: Linh Nhi Phan Minh
