@@ -1,0 +1,8 @@
+README.md
+setup.py
+checkversionstringlib/__init__.py
+checkversionstringlib/functions.py
+checkversionstringlib.egg-info/PKG-INFO
+checkversionstringlib.egg-info/SOURCES.txt
+checkversionstringlib.egg-info/dependency_links.txt
+checkversionstringlib.egg-info/top_level.txt
